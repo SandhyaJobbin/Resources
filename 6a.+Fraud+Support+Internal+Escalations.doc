@@ -1,0 +1,1067 @@
+Date: Wed, 5 Aug 2026 10:27:44 +0000 (UTC)
+Message-ID: <1490973385.23.1785925664050@b1e01c6267c8>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_22_1209508733.1785925664049"
+
+------=_Part_22_1209508733.1785925664049
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>6a. Fraud Support Internal Escalations</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>6a. Fraud Support Internal Escalations</h1>
+    <div class=3D"Section1">
+        <ul local-id=3D"f6560f3a516f">
+<li local-id=3D"9a3726995069">
+<p local-id=3D"b06a76790659"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/1983971550/6a.+Fraud+Support+Internal+Escalations#Assi=
+gn-to%3A" rel=3D"nofollow">Assign to:</a></p></li>
+<li local-id=3D"1582d7915b37">
+<p local-id=3D"376d6f83efc1"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/1983971550/6a.+Fraud+Support+Internal+Escalations#How-=
+to-Escalate-and-Reassign-Tickets" rel=3D"nofollow">How to Escalate and Reas=
+sign Tickets</a></p></li>
+<li local-id=3D"91d8fa68e3a1">
+<p local-id=3D"fbde9c5e5905"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/1983971550/6a.+Fraud+Support+Internal+Escalations#Over=
+view-for-Team-Leads" rel=3D"nofollow">Overview for Team Leads</a></p></li>
+</ul>
+<p local-id=3D"663e990c1b49"></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1072" data-layout=3D"center" data-local-id=3D"ca=
+e5fb80-a2ec-497f-943d-5a922012d4f9" data-table-display-mode=3D"default" cla=
+ss=3D"confluenceTable">
+<tbody>
+<tr data-local-id=3D"fdfff6d0cba6">
+<th data-highlight-colour=3D"#e3fcef" data-local-id=3D"f1129e2e94bf" class=
+=3D"confluenceTh">
+<h1 local-id=3D"e30ee4bcd93e" id=3D"id-6a.FraudSupportInternalEscalations-A=
+ssignto:">Assign to:</h1></th>
+<th data-highlight-colour=3D"#e3fcef" data-local-id=3D"f8460f127397" class=
+=3D"confluenceTh">
+<p local-id=3D"a08821ca4a9b"><strong>Type of Escalation</strong></p></th>
+<th data-highlight-colour=3D"#e3fcef" data-local-id=3D"08309c1f90c6" class=
+=3D"confluenceTh">
+<p local-id=3D"19a74187508d"><strong>Escalation Requirements</strong></p></=
+th>
+<th data-highlight-colour=3D"#e3fcef" data-local-id=3D"35eed1316ab2" class=
+=3D"confluenceTh">
+<p local-id=3D"596b1dd4de9f"><strong>Examples</strong></p></th>
+</tr>
+<tr data-local-id=3D"489ccf553a7e">
+<td data-highlight-colour=3D"#eae6ff" data-local-id=3D"5c98be3f4411" class=
+=3D"confluenceTd">
+<p local-id=3D"13627f42bfa3"><strong>The SGS Second Opinion queue </strong>=
+ This queue in Zendesk lets the agents escalate cases to their Tier 1 Team =
+leads</p></td>
+<td data-highlight-colour=3D"#eae6ff" data-local-id=3D"415ffed717ce" class=
+=3D"confluenceTd">
+<ul local-id=3D"aa1146bca77b">
+<li local-id=3D"8d8fb55991ec">
+<p local-id=3D"4eb0802dbeed"><strong>Knowledge Base Gap:</strong> Whenever =
+the solution to a specific issue <strong>cannot</strong> be found in the cu=
+rrent Knowledge Base (KB). This includes highly complex situations/edge cas=
+es where the KB may not have an exact example or guideline.</p></li>
+<li local-id=3D"98e59231-ee58-4a39-883d-5e011aa6c284">
+<p local-id=3D"c7ac14027585"><strong>General Inquiries:</strong> Whenever t=
+he issue is not explicitly listed as a direct escalation to Tier 2&nbsp; on=
+ the<a href=3D"https://tripadvisor.atlassian.net/wiki/spaces/ASK/pages/3000=
+90383/6c.+Escalations+to+Other+Teams" data-linked-resource-id=3D"300090383"=
+ data-linked-resource-version=3D"107" data-linked-resource-type=3D"page"> <=
+u>Escalations to Other Teams</u></a> page.</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#eae6ff" data-local-id=3D"7b2c3d5f1aff" class=
+=3D"confluenceTd">
+<ol start=3D"1" local-id=3D"03c156fc858d">
+<li local-id=3D"13ed7c824c33">
+<p local-id=3D"497e7ea37b05"><strong>Documentation:</strong> You have clear=
+ly stated what you have already checked and your comment is complete</p></l=
+i>
+<li local-id=3D"aeb1da3f9fe4">
+<p local-id=3D"3831f9c59081"><strong>Specific Question:</strong> You have i=
+ncluded a note explaining exactly what part of the process requires a secon=
+d opinion.</p></li>
+<li local-id=3D"01a9ec27a068">
+<p local-id=3D"9bf10b4e16e2"><strong>Resolution (When possible):</strong> Y=
+ou include your proposed resolution/action in your comment.</p></li>
+</ol></td>
+<td data-highlight-colour=3D"#eae6ff" data-local-id=3D"01f9a9acecee" class=
+=3D"confluenceTd">
+<p local-id=3D"8edf1c935b18"></p></td>
+</tr>
+<tr data-local-id=3D"214489ff5ede">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"360139744968" class=
+=3D"confluenceTd">
+<p local-id=3D"38eb82900ee1"><strong>Tier 2</strong></p>
+<p local-id=3D"d89acd143eae">While a Team Lead is the first point of contac=
+t for an agent, there are specific instances where a case should be escalat=
+ed further to <strong>Tier 2</strong></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"e5d5f9e581e7" class=
+=3D"confluenceTd">
+<p local-id=3D"d4efe323214e"><strong>Legal/Police: </strong>Correspondence =
+from lawyers, law firms, or police.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"67fe530fdcdc" class=
+=3D"confluenceTd">
+<p local-id=3D"c833ed7bcd4b"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"862cb1beaeca" class=
+=3D"confluenceTd">
+<p local-id=3D"37edc876b2e8"></p></td>
+</tr>
+<tr data-local-id=3D"8b7f69d2bd60">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"374f3fb753d7" class=
+=3D"confluenceTd">
+<p local-id=3D"a075d79b93b6"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"37c53d31a5d6" class=
+=3D"confluenceTd">
+<p local-id=3D"668bd661229c"><strong>Sensitive Subjects: </strong>Death, se=
+xual assault, drugging, animal cruelty, or violence.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"d1cac6d1c4df" class=
+=3D"confluenceTd">
+<p local-id=3D"20d8ec3aafbe"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"aa9303aa369f" class=
+=3D"confluenceTd">
+<p local-id=3D"e6bf43e03381"></p></td>
+</tr>
+<tr data-local-id=3D"2d9d5f30a158">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"e735723477cd" class=
+=3D"confluenceTd">
+<p local-id=3D"a3edee5721af"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"8806b7d85510" class=
+=3D"confluenceTd">
+<p local-id=3D"f9e23115214f"><strong>Extreme Bullying: </strong>Threats of =
+violence or interference with personal/professional life of the user.</p></=
+td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"86c4bdff0c67" class=
+=3D"confluenceTd">
+<p local-id=3D"0c67ad6aa0a2"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"994fd09c76eb" class=
+=3D"confluenceTd">
+<p local-id=3D"45ae1e3b7364"></p></td>
+</tr>
+<tr data-local-id=3D"0352ff34b4d4">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"a8caf29c89fe" class=
+=3D"confluenceTd">
+<p local-id=3D"96aeefb1a09b"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"992341c87587" class=
+=3D"confluenceTd">
+<p local-id=3D"ce7a20518f13"><strong>Press/Media: </strong>Inquiries from j=
+ournalists or credible threats to contact the media.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"0e1cae48d310" class=
+=3D"confluenceTd">
+<p local-id=3D"42fc4adb1f60"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"8480f241fba4" class=
+=3D"confluenceTd">
+<p local-id=3D"51358251d61f"></p></td>
+</tr>
+<tr data-local-id=3D"3fd24e2a15a0">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"31a8f86c34e1" class=
+=3D"confluenceTd">
+<p local-id=3D"cd177f51e18b"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"79659b52d3db" class=
+=3D"confluenceTd">
+<p local-id=3D"ad059ff39300"><strong>GDPR/Privacy: </strong>Any owner/user =
+concern regarding data/info posted on the site</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"71c3ba6a452a" class=
+=3D"confluenceTd">
+<p local-id=3D"6b2fc36976bc"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"21255b60de11" class=
+=3D"confluenceTd">
+<p local-id=3D"cc595c0a3e37"></p></td>
+</tr>
+<tr data-local-id=3D"98238fa13d2f">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"75776b885ef3" class=
+=3D"confluenceTd">
+<p local-id=3D"df6cf836daae"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"34d91350c114" class=
+=3D"confluenceTd">
+<p local-id=3D"8d3c9a6a19c8"><strong>Technical Issues: </strong>Repeatedly =
+expired verifications (2+ attempts) or AI/ChatGPT filtering errors.</p></td=
+>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"de4654c99134" class=
+=3D"confluenceTd">
+<p local-id=3D"175b482bbc9a"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"8250efbc8ea5" class=
+=3D"confluenceTd">
+<p local-id=3D"4b6e92787649"></p></td>
+</tr>
+<tr data-local-id=3D"4f5293f1403c">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"b5aa28e48f4c" class=
+=3D"confluenceTd">
+<p local-id=3D"922ece9435f5"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"58df817083cc" class=
+=3D"confluenceTd">
+<p local-id=3D"0cf5c74f73cf"><strong>Incentives: </strong>"Points" mentione=
+d in any IS; "Comps" mentioned in Las Vegas accommodation IS.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"8b4d5a1ab02b" class=
+=3D"confluenceTd">
+<p local-id=3D"dd06469ee9f0"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"4b9efd3173b7" class=
+=3D"confluenceTd">
+<p local-id=3D"c66fee1558ac"></p></td>
+</tr>
+<tr data-local-id=3D"0e9fd19a30a9">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"050b87be8bd6" class=
+=3D"confluenceTd">
+<p local-id=3D"cf5df116f520"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"2ddc1a5cefe1" class=
+=3D"confluenceTd">
+<p local-id=3D"f906d5a97aaa"><strong>Undocumented Scenarios: For team leads=
+ only: </strong>Cases involving highly unusual or "edge-case" scenarios tha=
+t are not covered by existing policies.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"a7844f77ad9e" class=
+=3D"confluenceTd">
+<p local-id=3D"97a90f63ad34"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"90c2cb652e03" class=
+=3D"confluenceTd">
+<p local-id=3D"385df764d866"><a class=3D"external-link" href=3D"https://tri=
+padvisor45.zendesk.com/agent/tickets/1664918" rel=3D"nofollow">1664918</a><=
+/p></td>
+</tr>
+<tr data-local-id=3D"b60d0ab360cf">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"0bb80cf14f0b" class=
+=3D"confluenceTd">
+<p local-id=3D"ca5a184c9db0"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"ea1311fb9b69" class=
+=3D"confluenceTd">
+<p local-id=3D"6ba6a86447e8"><strong>Exhausted Resources: </strong>Instance=
+s where, after a thorough investigation, a definitive solution or policy ap=
+plication cannot be identified at the TL level.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"0eeb230944ba" class=
+=3D"confluenceTd">
+<p local-id=3D"0962b59d0182"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"bae8818aba54" class=
+=3D"confluenceTd">
+<p local-id=3D"0d04b8a44d07"></p></td>
+</tr>
+<tr data-local-id=3D"59c09497ebb7">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"2d0d5e1c0015" class=
+=3D"confluenceTd">
+<p local-id=3D"76252912d718"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"8fb6666369a2" class=
+=3D"confluenceTd">
+<p local-id=3D"85164361ce3e"><strong>Tech Issues: </strong>Cases that appea=
+r to be the result of a wider technical bug or system failure requiring Tie=
+r 2 intervention.</p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"736f2389105c" class=
+=3D"confluenceTd">
+<p local-id=3D"d358eacedda5"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"1605ca024d4d" class=
+=3D"confluenceTd">
+<p local-id=3D"b30e0808e4af"></p></td>
+</tr>
+<tr data-local-id=3D"3a0f69bc6794">
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"57202f3020c1" class=
+=3D"confluenceTd">
+<p local-id=3D"b0ffbd989380"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"4990515916ca" class=
+=3D"confluenceTd">
+<p local-id=3D"884cc67f6c3c"><strong>Unclear Tickets: </strong>If you recei=
+ve an escalation from CS or Community that is ambiguous, Escalate to Tier 2=
+ so they can provide feedback to those departments and clarity to you.</p><=
+/td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"7019ef3f39ac" class=
+=3D"confluenceTd">
+<p local-id=3D"00473fedb0ef"></p></td>
+<td data-highlight-colour=3D"#ffebe6" data-local-id=3D"e2e245efa86e" class=
+=3D"confluenceTd">
+<p local-id=3D"bde787d16a93"></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<h2 local-id=3D"4a229904c9f2" id=3D"id-6a.FraudSupportInternalEscalations-H=
+owtoEscalateandReassignTickets"><img class=3D"emoticon emoticon-ticket" dat=
+a-emoji-id=3D"1f3ab" data-emoji-shortname=3D":ticket:" data-emoji-fallback=
+=3D" =E0=A4=9F=E0=A4=BF=E0=A4=95=E0=A4=9F" src=3D"8f8dd6b3177823e5604d36816=
+14ac460db62ff7b3e1b25bb0dac1f205fec56ad" width=3D"16" height=3D"16" data-em=
+oticon-name=3D"ticket" alt=3D"content.emoticon.ticket"> How to Escalate and=
+ Reassign Tickets</h2>
+<h3 local-id=3D"9b13dc817d60" id=3D"id-6a.FraudSupportInternalEscalations-E=
+scalatingaTickettoSGSSecondOpinion"><img class=3D"emoticon emoticon-arrow-u=
+p" data-emoji-id=3D"2b06" data-emoji-shortname=3D":arrow_up:" data-emoji-fa=
+llback=3D"=E2=AC=86=EF=B8=8F" src=3D"c592e8aadeca3b5cc41b2a0e13b390a0d8fef5=
+af3ef447170004a1bfd0d1cc64" width=3D"16" height=3D"16" data-emoticon-name=
+=3D"arrow-up" alt=3D"content.emoticon.arrow-up"> Escalating a Ticket to SGS=
+ Second Opinion</h3>
+<p local-id=3D"2f97e8405931">To escalate a ticket to the SGS Second Opinion=
+ view, agents should follow these steps:</p>
+<ol start=3D"1" local-id=3D"bb3cb8834ac7">
+<li local-id=3D"1d4d6d7ed3c0">
+<p local-id=3D"35c998915350">Apply the =E2=80=9C<strong>Escalate/Transfer::=
+To SGS Second Opinion</strong>=E2=80=9D macro.</p></li>
+<li local-id=3D"a7b6731f4ada">
+<p local-id=3D"5d81e506d5ac">Fill in all relevant information for the inter=
+nal comment.</p></li>
+</ol>
+<h3 local-id=3D"83081215ee23" id=3D"id-6a.FraudSupportInternalEscalations-R=
+eassigningaTicketBacktotheOriginalAgent"><img class=3D"emoticon emoticon-bl=
+ue-star" data-emoji-id=3D"2194" data-emoji-shortname=3D":left_right_arrow:"=
+ data-emoji-fallback=3D"=E2=86=94=EF=B8=8F" src=3D"be2282db454d8e8b635fc990=
+0e9957d7ff0960aa9786539f9b6c9cbf3554dee5" width=3D"16" height=3D"16" data-e=
+moticon-name=3D"blue-star" alt=3D"(blue star)"> Reassigning a Ticket Back t=
+o the Original Agent</h3>
+<p local-id=3D"f916c4a14215">After support processes the escalation, reassi=
+gn the ticket back to the original agent by following these steps:</p>
+<ol start=3D"1" local-id=3D"d908fa6f84b0">
+<li local-id=3D"559041ada643">
+<p local-id=3D"0b8cf22196f9">Assign the ticket back to the agent via the =
+=E2=80=9CAssignee=E2=80=9D dropdown menu.</p></li>
+<li local-id=3D"b94cc36ce436">
+<p local-id=3D"30d699b7520c">Select the Fraud Support Group.</p></li>
+<li local-id=3D"6c1df2b8ff24">
+<p local-id=3D"4749e5284478">Select the agent who originally escalated the =
+ticket.</p></li>
+<li local-id=3D"2eea88933c9a">
+<p local-id=3D"cbe72153d948">Scroll down on the left side panel to <strong>=
+un-check</strong> the =E2=80=9CEscalate to SGS Second Opinion=E2=80=9D box =
+shown below.</p></li>
+<li local-id=3D"7a8dde16e780">
+<p local-id=3D"1fd95412726a">After taking both of these steps, please submi=
+t the ticket as Open.</p></li>
+</ol><span class=3D"confluence-embedded-file-wrapper image-left-wrapper con=
+fluence-embedded-manual-size"><img class=3D"confluence-embedded-image confl=
+uence-content-image-border image-left" width=3D"219" loading=3D"lazy" src=
+=3D"dbb939af32312e461cadd559172365ae39ae4e363a207fdd306cc848f43b4a0f" data-=
+image-src=3D"https://tripadvisor.atlassian.net/wiki/download/attachments/19=
+83971550/Screenshot%202026-05-07%20at%202.28.01%E2%80%AFPM.png?version=3D1&=
+amp;modificationDate=3D1778178533892&amp;cacheVersion=3D1&amp;api=3Dv2" dat=
+a-height=3D"287" data-width=3D"225" data-unresolved-comment-count=3D"0" dat=
+a-linked-resource-id=3D"1983873948" data-linked-resource-version=3D"1" data=
+-linked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"=
+Screenshot 2026-05-07 at 2.28.01=E2=80=AFPM.png" data-base-url=3D"https://t=
+ripadvisor.atlassian.net/wiki" data-linked-resource-content-type=3D"image/p=
+ng" data-linked-resource-container-id=3D"1983971550" data-linked-resource-c=
+ontainer-version=3D"22" data-media-id=3D"41eb1a4c-b97e-4a76-9a19-95172d779a=
+1e" data-media-type=3D"file" height=3D"279"></span>
+<h3 local-id=3D"1009942c2f4e" id=3D"id-6a.FraudSupportInternalEscalations-E=
+scalatingaTickettoTier2">Escalating a Ticket to Tier 2</h3>
+<p local-id=3D"ec5dc9f89d48">To escalate a ticket to Tier 2, agents should =
+follow these steps:</p>
+<ol start=3D"1" local-id=3D"1c338519-4fbc-4c3f-b044-2571618a9c9e">
+<li local-id=3D"822601aa-4bab-414b-88f6-476dc2ccde5c">
+<p local-id=3D"18ba8c712bdf">Apply the =E2=80=9C<strong>To FS Tier 2</stron=
+g>=E2=80=9D macro.</p></li>
+<li local-id=3D"c1598b19-d48e-46b9-bed8-31175cde998c">
+<p local-id=3D"035977afc78d">Fill in all relevant information for the inter=
+nal comment.</p></li>
+</ol>
+</div>
+</div>
+<p local-id=3D"813523d3ce11"></p>
+<div class=3D"panel" style=3D"background-color: #EAE6FF;border-color: #998D=
+D9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<h3 local-id=3D"96f4820c94cf" id=3D"id-6a.FraudSupportInternalEscalations-O=
+verviewforTeamLeads"><strong>Overview for Team Leads</strong></h3>
+<p local-id=3D"5e0576d75f22"><strong>Team Leads</strong> are responsible fo=
+r monitoring and processing all tickets within the <strong>SGS Second Opini=
+on</strong> <strong>queue</strong>. The primary goal is to provide timely g=
+uidance to agents and maintain high quality standards across the team.</p>
+<p local-id=3D"2e47b4816d23">Tickets escalated to this queue should be proc=
+essed within <strong>72 hours</strong> to avoid delays in responses to end =
+users.</p>
+</div>
+</div>
+<p local-id=3D"dfa15f8e64b4"></p>
+    </div>
+</body>
+</html>
+------=_Part_22_1209508733.1785925664049
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/be2282db454d8e8b635fc9900e9957d7ff0960aa9786539f9b6c9cbf3554dee5
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAANlBMVEVHcEw7iMM7iMM7iMM7iMM7
+iMP///9Hj8c7iMO20umFtdra6fTz+Ptgns6RvN3n8Ph4rdadxOEhLBdlAAAABnRSTlMAv+9gIM+k
+pfmZAAABEElEQVR4Xu3YSw7CMAxFUZfSl29/+98sAiQLpYG4qckod8jgSBVuGpmejYO90DDSu/tk
+LzbdX87NXu72lCar0EQ0WpVGGnSggaxSHepQXR0yIQcEI4bYQQ4CS0JojshDiLMQYicPsSSCfMR3
+CNFLIQ/8ggAvg3aUIOwSyKEMwRUh4yCB4MxvyATIoMNAUepISyVKxkdcOlCUONUSJWN4TvI5yKMi
+f4R2VLWnkENljiEew1rJfED2CqT/aO8WVLX84e/ntvMDuf3rFWFpxYnWWfcY0T/YkqRHbYPDn1vK
+0NLsA8mj+QuKW+NLBI9mHlrn5hctlkzxx/a32g51qENqSxa1tY/WIkptNaa3rFNbHz4Ai/SZ22nS
+pXsAAAAASUVORK5CYII=
+------=_Part_22_1209508733.1785925664049
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/dbb939af32312e461cadd559172365ae39ae4e363a207fdd306cc848f43b4a0f
+
+iVBORw0KGgoAAAANSUhEUgAAAMQAAAD6CAYAAAD+1ui2AABeyklEQVR4Ae3AA6AkWZbG8f937o3I
+zKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a/aNldddRUAlauuuup+VK666qr7
+UbnqqqvuR+Wqq666H5WrrrrqflSuuuqq+1G56qqr7kflqquuuh/Bf5D1euDJT3kawzDwgozTxPkL
+FxjGkauu+h+Iyr/C45/wRH7m53+Ro+WSxXzONDWOlke8xqu9CmdOn+YLvvjL+eIv+Gwe/chH8vzc
+fvsdfPXXfxMf/P7vy2Mf8yheFH/zd3/HyZMnufnGG3mgv/irv+HXfuM3WS5X1FJ48INv4Q1f/3W5
+9ppr+O/2i7/8qzz8YQ/jkY94GFf9r0Lwr7BeD5y/cJG77rqbr/3Gb+E3fuu3uXhxl93dS9x80018
+9Id/CNdfdx0vyKW9PX7n9/6ACxcv8qL6rM/7Yn7t13+T5/Y3f/d3fNt3fg/nLpznjrvu4uu/+dv5
+8q/+OnZ3L/Hf5dz583zbd343n/dFX8rHf8qn85Vf+w3Y5qr/Naj8K7z4iz+Wz33kp3Lp0h5//pd/
+xVu++Zvw0R/2oaTNU5/+dH7p136dhz70Iexsb/P7f/hHfPf3/SBHyyXv8DZvxVu/5ZtTSmE+mzGf
+zbjtttv5mm/8Zl7z1V+dN3vjN+AHf/Qn+JVf+3VOHD/Oh37g+/HYxzyaz/3CL+Fv//4fuO32Ozg8
+OuIjPuSDuF+tldOnTvFpn/CxXHf9dXztN3wz3/St38F7vdu7cvz4MX7gR36cX/rVX2V7c4sP/oD3
+5aVe4sUB+Imf/hl+5ud+iWFY8/Zv81a83du+FeMw8h3f8338+m/+NiePn+A93u2deM1XfzUAfvrn
+foEf/6mfYdb3vO1bvyVv9sZvyN//w+P4vh/6ER71iEfw27/3+zzsIQ/m/d77Pbjpxhu5uHuJu+6+
+hzvuvIsPfv/3QRJX/a9B8K9QS2GxmLO5uSAimM1mRAlqLVy4cIHf/K3fZX//gL/+27/joz7+U5jN
+Zjzollv4wi/7Sv70z/8CAaUU7rr7br70q76GCxcu8qqv/Ar85M/8HN/wzd/KK77cyzGOI5/22Z/H
+nXfdzcu+9EuxsVjw8Ic+hEc/8pE8P5IIBePYmM8XLDbm/Owv/BJf8/XfyMu+1EtTIvj0z/58nv6M
+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
+4qqr/o+hctVVV92PylVXXXU/KlddddX9qFx11VX3o3LVVVfdj8pVV111PypXXXXV/ahcddVV96Ny
+1VVX3Y/KVVdddT8qV1111f2oXHXVVfejctVVV92PylVXXXU/KlddddX9qPwrLVdr/vxv/p5bn3EH
+L4ht5os5L/MSj+XhD74ZSVx11f8CyLZ5ES1XK37oJ36B66+7hkc89EG8IJI4Wi7507/8Ox7zyIfy
+qq/wMlx11f8CVP4V/vQv/47rrzvD67z6KzKfzfiXbG9u8sd/8Tc8/CEP4prTJ3lBxnHENpkmQtTa
+ESH+O9gGQBIvKtvsHxywv7/PiRMnWMznSOKq/3UI/hWe8vTbePHHPJL5bMaL4sG33EhrjUt7e7ww
+r/NGb85LvPyr8mqv+4a85hu8GV//zd/CweEh/9WmaeKHfuTH+flf/BVeVFNrfPXXfxOv/jpvxNu8
+83vwBm/6VvzYT/006eSq/3Wo/CvYRvzr2bxQ4zTx8Ic+lE/5xI/lF3/l1/jKr/1Gbr7pJt76Ld6M
+Jz3lqexsb3H23Hmuu/Yarjlzmttuu4N77ruP06dO8ZAHPwhJ3HX3PbTWGMeRixd3uf76a7nh+usB
+aJncedfd3HPPPZw5fZqHPPhBtNa48667QXB0dMRivmC5XPE9P/BDnDp1kld+xZdnnCYu7e3x8Ic+
+hK7rOHfuAruXdrnl5pvo+x6Av/rrv+U7v+f7+LAP/kDe4HVem+/6vu/nx37iZ3j1V3kVxmGg63tu
+uP46zp49x97BAbfcdBPjNHLb7XfwoJtvou97br/jTu47e5Yzp05zyy03UUohM7nr7ru5++57OX78
+GA950IOoXeX2O+5kGkdqrdx37jwPuuVmTp86yVX/Iaj8D1BK4Q3f8HV59Vd9ZR50y038/T/8A095
+6tO47fY7+YAP+0iuv/Y6Dg8P+ID3e2825wu+9pu+hcOjI/qu433e8z14x7d7a777+3+I3/rt3+Ha
+a87wxCc/hYc99CF83md+Go94+MP4zd/+Hb7tO7+Hg4MDau34iA/9QF7lFV+Rr/mGb+bv/uEfmPUd
+r/Par8U4jNx2+x3ccedd/OTP/hyLxYJv/Y7v5ru+5Rt4+MMeyjd927fzhCc+iW/7pq+j54pz58+T
+zRzb2ebaa8/wqZ/08TzlqU/l5InjfMKnfRar5Ypv+8av4Tu+9/v5zd/+Xb7167+aZ9x2G5/22Z/H
+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
+P8edd97Fer3iF37pV3jSk5/Ky73sy9DVSoQ4d/4Cd99zL096ylO45957ueWmm4gIHkgSiGeRxP3S
+5uabbmIYR/7qb/6O1hpPecpT2d7a5viJ42QmCnE/IYS46v8VKv8DfOonfRyf8Tmfzwd82Edy8403
+8pd/87e89Eu/BG/yRq9PKYWudtx199181ud9Ibc+4zamNvGar/FqjOPI/sEBLRvDOHBwdESmATg6
+WrJaLrHN0dERq+WShz/sIbzaq7wSX/ON38Rv/vbv8Pf/8Hje/m3fmuuuuYa9/X22t7cByJYcHB4y
+jiNX/b9C+ezP/uzP5r/ZzTfdyGMf82gWiwURhTd4/dflQz/w/Th96hTjNPFzv/hLnDx5krd767fk
+2M427/c+78lLv9RL0pXKNWfO8HIv81Ic2znGQx78IF7qJV6M+WzGxsacl3rJl+ChD3kIW5tbvMRL
+vBg333QTr/bKr8T29hYg3vxN34i3fss3YzGfs5jNeZmXekke9tCHECW45sxpXvZlXppTJ09y1f8b
+yLb5H2y9XvPeH/ghbG5s8u3f9HVcddV/ImTb/A+WmfzD455AKcFjH/NorrrqPxGyba666ioAKldd
+ddX9qFx11VX3o3LVVVfdj8pVV111PypXXXXV/ahcddVV96Ny1VVX3Y/KVVdddT8qV1111f2oXHXV
+VfejctVVV92PylVXXXU/KlddddX9qFx11VX3o3LVVVfdj8pVV111PypXXXXV/ahcddVV96Ny1VVX
+3Y/gf7g/+8u/4glPejJXXfVfgH8EQMG88rZbaZsAAAAASUVORK5CYII=
+------=_Part_22_1209508733.1785925664049
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/8f8dd6b3177823e5604d3681614ac460db62ff7b3e1b25bb0dac1f205fec56ad
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAWlBMVEVHcEzM1t3M1t3M1t3M1t3M
+1t3M1t3M1t3M1t3M1t3M1t3M1t3M1t3M1t3M1t2zwMmcrbiZqrXCztamtb/G0di/y9Osu8S5xs6v
+vcfJ09ufsLq8yNGjsr2puMLhoPU1AAAADnRSTlMAML8gQIDvEM+fj69wYF7N3ugAAAHbSURBVHhe
+pdYJboMwEIVhIJCwpMO6JGl7/2vWgirPYdCTYf4DfLI9NkkUXFrkIkl5iWzdKvkvszm5vCusDiSr
+A8nsQLI7kOwOJLvDJe4Mdd2dl+B0Tdu2/XhSgiOPdqmfiRTiyG/73wtUccKR2Rl9s1L185j0JV5P
+h/TPeqUaRx2QUvGrHTDKm5oGSMEQluTAsV1rwqVMPpqWJXXOWxslUIqvn9DggH5xmm+HNiEnfrun
+aQbHW9LidE4dFwcSn/s188HOIauDIFEn/txiD0dJzJFsc+jLwOB4ZdSRdHsNfhw0y14X5gDy38lr
+FyqJg62Bfq33R5cwB4eNJeH+bGIOxo/mepDdiKNBUk4cskVdsXXwYa3JoevifWdqXeQaqCriHIHy
+G3EedGvhzkQO+5SD8RsczI6A3IFJ7lO4A0gderiD2ZFrAMdVMWcSCvlOHO5ga3BQEe7gsOGgPNzB
++OEgvHfqaPC+OBo65MSRLgFEHHXouhJ/fx7cQekedBFE3hqFcCvoW9Pdo90KQXp25LvBJP7W4FCJ
+z447kNTsuMMlxB0uGRwyO+6ESybHlwyOnp3BgYSIwyWrA8nqQLI6kKwOJKsDyepAsjqQrA4kq6N/
+ESrnmLqUiUhexMHAHwNrm98UI+3dAAAAAElFTkSuQmCC
+------=_Part_22_1209508733.1785925664049
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c592e8aadeca3b5cc41b2a0e13b390a0d8fef5af3ef447170004a1bfd0d1cc64
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAPFBMVEVHcEw7iMM7iMM7iMM7iMM7
+iMM7iMNHj8e20umdxOH///+Ftdpgns5Ul8vz+Pva6fTO4fB4rdbn8PhsptLu2KdKAAAAB3RSTlMA
+YL//IM/vVZgOvgAAAO5JREFUeAHt2IWVwzAQBmFBnJV/oXX913pMMQr2UZ6mgK+AER9JpTtSUnx1
+m3Rn0+3Tuevu7h/SpBmahJCaJSkUD6SEZupZoQERMUHG8EAzMHNAFu/ZfsjhM9cL+YDPgu+DKOK7
+SF1Qwm+pBzL4l2mHLB6yrdCCVUsb5AJWBdcCUcamTPUQRewUqRoy2M3UQjMOmusgi8NsDeRwkiuH
+fMBJwZdCFHFapEIo4aJUBhlcZkogi4LsNbSgqJcryAUUFdw5RBmFZTqDKKK4uIZOwiq96smhAQ1o
+QAPqb0ADYpssbNuHa0SxrTG+Wce2D98A3+RV3Ri5ArgAAAAASUVORK5CYII=
+------=_Part_22_1209508733.1785925664049--

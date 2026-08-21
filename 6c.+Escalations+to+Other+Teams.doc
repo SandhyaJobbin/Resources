@@ -1,0 +1,473 @@
+Date: Wed, 5 Aug 2026 10:09:31 +0000 (UTC)
+Message-ID: <142633938.3.1785924571341@7e8d59b95586>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_700133690.1785924571341"
+
+------=_Part_2_700133690.1785924571341
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>6c. Escalations to Other Teams</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>6c. Escalations to Other Teams</h1>
+    <div class=3D"Section1">
+        <p local-id=3D"26234f88a204"></p>
+<ul local-id=3D"b143eefc-6518-4ede-8ec5-e0ea2a71b57f">
+<li local-id=3D"86ef5a3e-f95c-47f3-a3ac-82a1abb81309">
+<p local-id=3D"64f1663d0204"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090383/6c.+Escalations+to+Other+Teams#Escalations-t=
+o-the-Investigations-Team-(INV)" rel=3D"nofollow"><u>Escalations to the Inv=
+estigations Team (INV)</u></a></p></li>
+<li local-id=3D"f7f88587-7e0c-490f-9f6e-ea7d16c43652">
+<p local-id=3D"f1a8d171ec2b"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090383/6c.+Escalations+to+Other+Teams#Escalations-t=
+o-Customer-Support-(CS)" rel=3D"nofollow"><u>Escalations to Customer Suppor=
+t (CS)</u></a></p></li>
+<li local-id=3D"abf11359-449f-4c14-8a3f-c2a4cbaed6a4">
+<p local-id=3D"c747c53931dc"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090383/6c.+Escalations+to+Other+Teams#Escalations-t=
+o-the-Community-Team" rel=3D"nofollow"><u>Escalations to the Community Team=
+</u></a></p></li>
+<li local-id=3D"5b74812ffb09">
+<p local-id=3D"b93ac0b33431"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090383/6c.+Escalations+to+Other+Teams#Escalations-t=
+o-the-Places-team" rel=3D"nofollow">Escalations to the Places Team</a></p><=
+/li>
+<li local-id=3D"76a7a00f-d29a-49c5-a32c-c74e34df3c57">
+<p local-id=3D"4ca17d1cd993"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090383/6c.+Escalations+to+Other+Teams#Escalations-t=
+o-Partners-(Viator%2C-TheFork%2C-VR)" rel=3D"nofollow"><u>Escalations to Pa=
+rtners (Viator, TheFork, VR)</u></a></p></li>
+</ul>
+<h1 local-id=3D"364ac5846d06" id=3D"id-6c.EscalationstoOtherTeams-Escalatio=
+nstotheInvestigationsTeam(INV)"><strong>Escalations to the Investigations T=
+eam (INV)</strong></h1>
+<p local-id=3D"6c2b1127ebde">The Investigations Team handles large-scale fr=
+aud and high-sensitivity cases.</p>
+<div class=3D"panel" style=3D"background-color: #FFEBE6;border-width: 1px;"=
+>
+<div class=3D"panelContent" style=3D"background-color: #FFEBE6;">
+<p local-id=3D"f5c55d57ea4f"><strong>Do not overturn</strong> any removals =
+made by INV. If you believe a removal was made in error, escalate to <stron=
+g>FS Tier 2</strong>.</p>
+</div>
+</div>
+<h2 local-id=3D"6372093174e3" id=3D"id-6c.EscalationstoOtherTeams-Whoarethe=
+investigators?:"><strong>Who are the investigators?:</strong></h2>
+<p local-id=3D"a7bb71ef6e9c">Bobby O'Neill (roneill), Garrett Traylor (gtra=
+ylor), Nopparat Ma (nma/Nopparat), Shawn Marquis (smarquis), Janka Krasznai=
+ (jkrasznai), Lucille Pierre (lpierre), and Nicolette Torres (ntorres).</p>
+<h2 local-id=3D"dae3ac086fc1" id=3D"id-6c.EscalationstoOtherTeams-Mandatory=
+INVEscalationTopics:"><strong>Mandatory INV Escalation Topics:</strong></h2=
+>
+<ul local-id=3D"e5f656a4-a3e1-4c5f-9226-f34a89a29b41">
+<li local-id=3D"42f2a9ba-4193-42a4-a7a2-62e859059022">
+<p local-id=3D"9540cb0d4304"><strong>Impersonation:</strong> Users pretendi=
+ng to be someone else (e.g., celebrities).</p></li>
+<li local-id=3D"471ed0da-83a1-4d53-8e52-c157a48d74c5">
+<p local-id=3D"08ff916d7e86"><strong>Red Badge Cases:</strong> Any conversa=
+tion with a property currently under a Red Badge (active or inactive, withi=
+n the previous year, like a penalty)</p></li>
+<li local-id=3D"09fb1096-292d-4764-aa07-c700f15cc8cc">
+<p local-id=3D"72207794b849"><strong>Media/Lockdown Badges:</strong> Proper=
+ties with a Media Badge or Lockdown. Look for BADGEHOLD or BADGEBUG notes i=
+n the Location Center.</p></li>
+<li local-id=3D"c672ecfb-a983-463c-bb64-4c3bbcf0ad9e">
+<p local-id=3D"e30968ec176a"><strong>Review Gating:</strong> Systems design=
+ed to only solicit reviews from happy customers.</p></li>
+<li local-id=3D"3c514b20-423e-491c-ae17-25de99b2c26b">
+<p local-id=3D"75e3c650be62"><strong>Restricted Reviews:</strong> Booking p=
+olicies that forbid guests from writing reviews.</p></li>
+<li local-id=3D"5ad480d4-806d-4522-a2ab-337159d3a945">
+<p local-id=3D"e9385182aff3"><strong>Branding Misuse:</strong> Users/Owners=
+ misusing TCA badges or claiming false rankings (e.g., "No. 1 Tour").</p></=
+li>
+<li local-id=3D"69d6898c-7b7c-40d4-ae84-661a97a5e8eb">
+<p local-id=3D"a577f1bcb7e8"><strong>Paid Review Patterns:</strong> Evidenc=
+e of organized paid review schemes.</p></li>
+<li local-id=3D"5ff6003f-ab1b-4ab1-8162-013e041df262">
+<p local-id=3D"fd64bd5418a8"><strong>Project Nomen:</strong> Follow the spe=
+cific escalation process for these tickets.</p></li>
+</ul>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p local-id=3D"fb5553898be1">Always expand "Location Notes" in the LC. If y=
+ou see <strong>"FRAUD SUPPORT TO BE HANDLED BY INVESTIGATIONS,"</strong> as=
+sign the ticket to INV Support immediately using the <em>Note Present</em> =
+macro.</p>
+</div>
+</div>
+<div class=3D"confluence-information-macro confluence-information-macro-not=
+e">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-warning confluence-info=
+rmation-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p local-id=3D"9d2cb9ae1f57"><strong>Continuity:</strong> If an Investigato=
+r handled a previous FPS conversation with a property, assign a new ticket =
+about the same issue back to them to continue the conversation.</p>
+</div>
+</div>
+<h3 local-id=3D"1e7befe6b228" id=3D"id-6c.EscalationstoOtherTeams-HowtoEsca=
+late:"><strong>How to Escalate:</strong></h3>
+<ol start=3D"1" local-id=3D"b473c1fa-fa89-4fa6-9fa9-1e734693bcc9">
+<li local-id=3D"69cedce9-ba0e-4b57-aa47-43cb6ff05681">
+<p local-id=3D"b2a52e57a942"><strong>Select Macro:</strong> Escalate/Transf=
+er &gt; To Investigations</p></li>
+<li local-id=3D"a96df717-43c1-4595-ad5d-09e8f75c321a">
+<p local-id=3D"e2783e7e7268"><strong>Summary:</strong> Briefly explain the =
+issue.</p></li>
+<li local-id=3D"37282d2c-a61c-401c-915a-d4983ae30e74">
+<p local-id=3D"5ff5148c01d7"><strong>Submit as open</strong></p></li>
+</ol>
+<hr local-id=3D"a71bc14ea707">
+<h1 local-id=3D"11c666ffa1d8" id=3D"id-6c.EscalationstoOtherTeams-Escalatio=
+nstoCustomerSupport(CS)"><strong>Escalations to Customer Support (CS)</stro=
+ng></h1>
+<p local-id=3D"5f4bcb295aeb">If a ticket contains <strong>no fraud or moder=
+ation issues</strong>, transfer it to CS.</p>
+<p local-id=3D"f4845b56c6a3"><strong>Common Scenarios:</strong></p>
+<ul local-id=3D"e76f50ff-9f43-4012-821d-32407d32e8a2">
+<li local-id=3D"de047030-bae1-4c28-82d4-2c811739d08a">
+<p local-id=3D"b09d6388208e"><strong>User:</strong> Password resets, accoun=
+t access.</p></li>
+<li local-id=3D"16b4aaac-a699-4c4c-8458-1bfa0d99ffca">
+<p local-id=3D"c0c8e573885d"><strong>Owner:</strong> Listing updates (name/=
+closure), questions on how to use our site, questions about bubbles rating.=
+</p></li>
+</ul>
+<p local-id=3D"ece0f1149817"><strong>How to Escalate:</strong></p>
+<ol start=3D"1" local-id=3D"fd994fea-398a-4efc-8add-f3f2e0c40563">
+<li local-id=3D"6fca8981-0af6-4e56-9b11-00a13fb31c67">
+<p local-id=3D"aacc1a47d9fa"><strong>Select Macro:</strong> Escalate/Transf=
+er &gt; To Customer Support.</p></li>
+<li local-id=3D"7da80eed-f9d2-405e-a137-ecc14667f274">
+<p local-id=3D"940369ed5c7e"><strong>Clean the Ticket:</strong> Remove inte=
+rnal Fraud Support jargon (e.g., do not use "Rev. RR" or "DC Policy").</p><=
+/li>
+<li local-id=3D"74ab22bd-2882-4b73-b2fa-e40481520e50">
+<p local-id=3D"ba0d801e3ea2"><strong>Summary:</strong> Briefly explain the =
+user's need (e.g., "Owner wants to change property name").</p></li>
+<li local-id=3D"9d475158f880">
+<p local-id=3D"70d7169436ed"><strong>Submit as solved</strong></p></li>
+</ol>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p local-id=3D"c36f16c6cd13"><strong>Follow-up:</strong> If the user compla=
+ins after 3 days that CS hasn't responded, create a new ticket and send it =
+to CS again.</p>
+</div>
+</div>
+<hr local-id=3D"39333a2e-947c-4532-ae2c-1b5e3f83737c">
+<h1 local-id=3D"f313045b8e14" id=3D"id-6c.EscalationstoOtherTeams-Escalatio=
+nstotheCommunityTeam"><strong>Escalations to the Community Team</strong></h=
+1>
+<p local-id=3D"e74e882cfe3c">Transfer cases involving <strong>member-to-mem=
+ber interactions</strong> and <strong>community standards</strong>.</p>
+<ul local-id=3D"ba3b4d0cdcb1">
+<li local-id=3D"d6d955f7-547b-4f43-bdc1-4f8ac5def284">
+<p local-id=3D"ec6cd9467528"><strong>User Bullying:</strong> Harassment bet=
+ween two users.</p></li>
+<li local-id=3D"24221e77-7806-471a-9279-222556c72e8d">
+<p local-id=3D"2841aa6441c6"><strong>Profile Photos:</strong> Photos involv=
+ing illegal substances, escort services, or spam.</p></li>
+<li local-id=3D"5e09511f-f16c-4c48-974d-6bc0651daab6">
+<p local-id=3D"b4f577d3b692"><strong>Account Closure:</strong> Any user req=
+uesting to delete their account.</p></li>
+<li local-id=3D"bf66378c-a92d-4300-a1b6-685234fb1863">
+<p local-id=3D"98a18926ece7"><strong>Community Posts:</strong> Issues with =
+Forum or Q&amp;A content.</p></li>
+</ul>
+<p local-id=3D"8972e914d11c"><strong>How to Escalate:</strong></p>
+<ol start=3D"1" local-id=3D"0f75d88692cf">
+<li local-id=3D"19e5c7c9b925">
+<p local-id=3D"f9b490a787e9"><strong>Select Macro:</strong> Escalate/Transf=
+er &gt; To Community.</p></li>
+<li local-id=3D"63b791f96fc0">
+<p local-id=3D"8f7bab1d13a8"><strong>Clean the Ticket:</strong> Remove inte=
+rnal Fraud Support jargon (e.g., do not use "Rev. RR" or "DC Policy").</p><=
+/li>
+<li local-id=3D"d01fd008122e">
+<p local-id=3D"05fc80b6cd0d"><strong>Summary:</strong> Briefly explain the =
+issue (e.g., "User is bullying another user").</p></li>
+<li local-id=3D"ce5e82b37d7f">
+<p local-id=3D"1a62c4748039"><strong>Submit as solved</strong></p></li>
+</ol>
+<hr local-id=3D"72e3a4ae-98a5-40fa-9490-787d823e7694">
+<h1 local-id=3D"06d0be87cdce" id=3D"id-6c.EscalationstoOtherTeams-Escalatio=
+nstothePlacesteam"><strong>Escalations to the Places team</strong></h1>
+<p local-id=3D"52bcac5203ed">Transfer cases involving listings problems tha=
+t don=E2=80=99t need a reply reported by TA colleagues or users. If the req=
+uest is from an owner and needs a reply please send it to CS instead.</p>
+<p local-id=3D"702bfa15c1b6"><strong>How to Escalate:</strong></p>
+<ol start=3D"1" local-id=3D"1c5b7bee-6e91-43b3-9e72-d947c8a2b1e0">
+<li local-id=3D"ec0310ea-fc9b-4363-a895-5e9a87fc4a57">
+<p local-id=3D"458332626c4f"><strong>Select Macro:</strong> Escalate/Transf=
+er &gt; To Places</p></li>
+<li local-id=3D"643ff407-27d7-44b9-b6ac-14c3b8c5bb32">
+<p local-id=3D"e300b8377049"><strong>Summary:</strong> Briefly explain the =
+issue (e.g., "Listing should be closed because it=E2=80=99s a dupe").</p></=
+li>
+<li local-id=3D"86ab9aeb10fc">
+<p local-id=3D"334808097441"><strong>Submit as solved</strong></p></li>
+</ol>
+<hr local-id=3D"e5f8dc144abf">
+<h1 local-id=3D"61d9b5784abf" id=3D"id-6c.EscalationstoOtherTeams-Escalatio=
+nstoPartners(Viator,TheFork,VR)"><strong>Escalations to Partners (Viator, T=
+heFork, VR)</strong></h1>
+<h3 local-id=3D"2412d775ec3f" id=3D"id-6c.EscalationstoOtherTeams-Viator"><=
+strong>Viator</strong></h3>
+<ul local-id=3D"8d903d55-b9ce-42c2-9e6f-4b6129092236">
+<li local-id=3D"f096f62c-61bc-4e05-af7a-db207760e23d">
+<p local-id=3D"c1022fc4acc9"><strong>Customers:</strong> Direct them to <a =
+class=3D"external-link" href=3D"mailto:exp-cscare@viator.com" rel=3D"nofoll=
+ow">exp-cscare@viator.com</a> if the issue is not about reviews.</p></li>
+<li local-id=3D"b2fda19a-6717-4342-af6d-e09247580a15">
+<p local-id=3D"8d098d0de35f"><strong>Owners/Suppliers:</strong> Process to =
+the best of your ability. If stuck, use macro FS Tier 2 - Viator Inquiry.</=
+p></li>
+</ul>
+<h3 local-id=3D"97de5aca9579" id=3D"id-6c.EscalationstoOtherTeams-TheFork">=
+<strong>TheFork</strong></h3>
+<ul local-id=3D"c0d8f696-3d63-46f9-963d-ee4f7815f889">
+<li local-id=3D"f393e743-07f4-47ab-95f3-a658a2d6cb6b">
+<p local-id=3D"ad9b41fe4aa6"><strong>Review Disputes:</strong> Direct owner=
+s to<a class=3D"external-link" href=3D"https://manager.thefork.com/login" r=
+el=3D"nofollow"> <u>TheFork Manager</u></a>.</p></li>
+</ul>
+<h3 local-id=3D"522a590c4bf4" id=3D"id-6c.EscalationstoOtherTeams-VacationR=
+entals(VR)"><strong>Vacation Rentals (VR)</strong></h3>
+<ul local-id=3D"cac19ced-67f6-49c1-8f7a-616729a904ea">
+<li local-id=3D"d18c6bd3-2b17-4003-8457-dc8828301ad6">
+<p local-id=3D"cbc79b22de5f"><strong>Non-Fraud Issues:</strong> We should n=
+ot see any VR tickets anymore but if you do and they are not related to fra=
+ud, please escalate to Tier 2.</p></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_2_700133690.1785924571341--

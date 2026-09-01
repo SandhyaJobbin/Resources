@@ -1,0 +1,466 @@
+Date: Wed, 5 Aug 2026 10:41:39 +0000 (UTC)
+Message-ID: <936271270.7.1785926499953@1b8b9fb02cae>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6_946148176.1785926499952"
+
+------=_Part_6_946148176.1785926499952
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>17. User Review Disputes</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>17. User Review Disputes</h1>
+    <div class=3D"Section1">
+        <ul local-id=3D"597475ec020f">
+<li local-id=3D"c2bdcc8d1836">
+<p local-id=3D"059a52937227"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090364/17.+User+Review+Disputes#User-Reports-%26-Ge=
+neral-Allegations" rel=3D"nofollow">User Reports &amp; General Allegations<=
+/a></p></li>
+<li local-id=3D"f9300649e551">
+<p local-id=3D"99a20d2c38dd"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090364/17.+User+Review+Disputes#Standard-Handling-P=
+rocess" rel=3D"nofollow"><u>Standard Handling Process</u></a></p></li>
+<li local-id=3D"9615f86f0abe">
+<p local-id=3D"e2638fb32d5e"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090364/17.+User+Review+Disputes#Action-Table%3A-Spe=
+cific-Content-Types" rel=3D"nofollow"><u>Action Table: Specific Content Typ=
+es</u></a></p></li>
+<li local-id=3D"18b3eb27bc2b">
+<p local-id=3D"453129ca841e"><a href=3D"https://tripadvisor.atlassian.net/w=
+iki/spaces/ASK/pages/300090364/17.+User+Review+Disputes#Viator-Reviews" rel=
+=3D"nofollow"><u>Viator Reviews</u></a></p></li>
+</ul>
+<h1 local-id=3D"f40d22676e97" id=3D"id-17.UserReviewDisputes-UserReports&am=
+p;GeneralAllegations"><strong>User Reports &amp; General Allegations</stron=
+g></h1>
+<p local-id=3D"8f685c9738be">Users can report inappropriate content or pote=
+ntial guideline violations via on-site voting or by emailing <code>contenti=
+ntegrity@tripadvisor.com</code>.</p>
+<div class=3D"panel" style=3D"background-color: #FFBDAD;border-width: 1px;"=
+>
+<div class=3D"panelContent" style=3D"background-color: #FFBDAD;">
+<p local-id=3D"4f5af3d80644"><strong>Non-Affiliated Reports:</strong> Treat=
+ all reports from non-affiliated individuals as <strong>standard user repor=
+ts</strong>, regardless of any claims of affiliation they might make.</p>
+</div>
+</div>
+<hr local-id=3D"e34532b2-47b0-4b77-98a4-a83392978565">
+<h1 local-id=3D"dd580228764a" id=3D"id-17.UserReviewDisputes-StandardHandli=
+ngProcess"><strong>Standard Handling Process</strong></h1>
+<h2 local-id=3D"ed0efcaef98b" id=3D"id-17.UserReviewDisputes-1.Preparation"=
+><strong>1. Preparation</strong></h2>
+<ul local-id=3D"1bff25ee-0990-43f4-ba74-ea8f7fc55941">
+<li local-id=3D"1d397aa8-5186-4f64-9015-88b342a9d111">
+<p local-id=3D"801dcdd62dcc"><strong>Manage Duplicates:</strong> Merge mult=
+iple tickets from the same user regarding the same issue into one active ti=
+cket before responding.</p></li>
+</ul>
+<h2 local-id=3D"af8a0031bea1" id=3D"id-17.UserReviewDisputes-2.LocatetheDis=
+putedReview"><strong>2. Locate the Disputed Review</strong></h2>
+<p local-id=3D"62fc1cb9fe94">If the review isn't linked, use these methods =
+to identify it:</p>
+<ul local-id=3D"49c36438-7803-45a5-88a1-121792dd1346">
+<li local-id=3D"c164bf3b-1760-488e-8544-c277eb047803">
+<p local-id=3D"903de22ab347"><strong>URD Search:</strong> Search the user's=
+ email as the <strong>"Voter Email."</strong></p></li>
+<li local-id=3D"45b8d89a-c939-43b1-9c7e-461b651919a1">
+<p local-id=3D"af1a9ddc626a"><strong>Subject Line Check:</strong> Look for =
+Review IDs or Titles in the ticket subject.</p></li>
+<li local-id=3D"4a1719c1-9bbc-4dda-be9d-f4826c3f0b01">
+<p local-id=3D"dcc04b201146"><strong>Property Search:</strong> Cross-refere=
+nce provided titles with the property=E2=80=99s review list or via a Google=
+ search.</p></li>
+<li local-id=3D"0eff4849-90e6-42df-8cc2-e4b4b57a5eb4">
+<p local-id=3D"39b933a8d47a"><strong>Clarification:</strong> If still uncer=
+tain, ask the user to confirm the link/title. If they cannot, use the <stro=
+ng>Dispute =E2=80=93 Not Specific Enough</strong> macro (edited for users).=
+</p></li>
+</ul>
+<h2 local-id=3D"e847091deee9" id=3D"id-17.UserReviewDisputes-3.Review&amp;D=
+ocumentation"><strong>3. Review &amp; Documentation</strong></h2>
+<ul local-id=3D"1702c9f5-945c-451e-8241-d665932da6bb">
+<li local-id=3D"70c4e560-4db4-417f-bfb3-51ff1b2b08d3">
+<p local-id=3D"591e16ec5b0b"><strong>Evidence:</strong> Request specific ev=
+idence if not provided or if clarity is needed for the investigation.</p></=
+li>
+<li local-id=3D"28cf2998-67d0-4366-9ea9-f9e4548887d8">
+<p local-id=3D"58e00a19de1e"><strong>Apply Guidelines:</strong> Evaluate th=
+e review against <strong>CI/CM guidelines</strong>.</p></li>
+<li local-id=3D"cc1d9769-fbdb-47c3-afb8-8619e63ce84b">
+<p local-id=3D"e3537b4e9a4a"><strong>Documentation:</strong> * Add URD comm=
+ents explaining your decision.</p>
+<ul local-id=3D"6ee5f08c-927b-4319-9ce0-b044548a72df">
+<li local-id=3D"68a230c5-82de-4b55-aff7-fb4cca800c38">
+<p local-id=3D"8f5670d8ee81">Enter Review/Location IDs in the ZD ticket fie=
+lds.</p></li>
+<li local-id=3D"47d841a6-4d94-4613-9d36-6f2bfec74905">
+<p local-id=3D"ed98a2556cd8">Perform a property sweep if a pattern is detec=
+ted.</p></li>
+</ul></li>
+</ul>
+<div class=3D"panel" style=3D"background-color: #EAE6FF;border-color: #998D=
+D9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<p local-id=3D"a8e6f3bce516"><strong>No Vote Rule:</strong> If the user has=
+ not cast a vote on-site and no removal is planned, instruct them to use th=
+e <strong>on-site dispute tool</strong> before emailing us.</p>
+</div>
+</div>
+<h2 local-id=3D"24d9ca218fc2" id=3D"id-17.UserReviewDisputes-4.FinalRespons=
+e"><strong>4. Final Response</strong></h2>
+<p local-id=3D"e5a436af9a0b">Use the <strong>Allegation of Fraud</strong> m=
+acro. <strong>Do not</strong> disclose internal investigation methods. You =
+may also use the following standardized text:</p>
+<blockquote local-id=3D"481b1b8b-84d3-43a1-bbdc-d64817e14aad">
+<p local-id=3D"72ca91005a00"><em>"Thank you for your report. We will review=
+ the content in question and make any appropriate changes. Due to our priva=
+cy policy, I am unable to follow up with details regarding the investigatio=
+n. Thank you for your participation and understanding."</em></p>
+</blockquote>
+<hr local-id=3D"6b8a0427-4186-4377-b99e-a9aa5c4c0ad0">
+<h1 local-id=3D"a6550d3800a5" id=3D"id-17.UserReviewDisputes-ActionTable:Sp=
+ecificContentTypes"><strong>Action Table: Specific Content Types</strong></=
+h1>
+<div class=3D"table-wrap">
+<table data-table-width=3D"1800" data-layout=3D"default" data-local-id=3D"6=
+e092015-c4cb-4a11-b346-5b0d07a78575" class=3D"confluenceTable">
+<tbody>
+<tr data-local-id=3D"863cf341-7b3b-41ba-a90c-9d93e596a87c">
+<th data-local-id=3D"5c33597d-e887-447a-8d5f-c599b686b539" class=3D"conflue=
+nceTh">
+<p local-id=3D"aaff4d867e5a">Content Type</p></th>
+<th data-local-id=3D"e76cd3c9-a0fb-4649-aa50-389bc2d39d9b" class=3D"conflue=
+nceTh">
+<p local-id=3D"afb65b0bfaa7">Action to Take</p></th>
+</tr>
+<tr data-local-id=3D"c046576e-7404-4f0e-a366-6f180fb7e3ab">
+<td data-local-id=3D"a7dad97e-3a93-416f-93ba-ea9e498d5be2" class=3D"conflue=
+nceTd">
+<p local-id=3D"237846a0acac"><strong>Owner Response (Privacy)</strong></p><=
+/td>
+<td data-local-id=3D"3a05965d-a4b6-43b7-b834-e3cb6bfee9b4" class=3D"conflue=
+nceTd">
+<p local-id=3D"cfe884f544ce">If an OR reveals user info (real name, phone, =
+email, employer) not in their profile, <strong>remove the OR</strong>.</p><=
+/td>
+</tr>
+<tr data-local-id=3D"1ed41e53-1770-4d4e-9bf8-e907286b5dac">
+<td data-local-id=3D"bf1b1b24-32e3-44c5-b5d0-b1d22b63a660" class=3D"conflue=
+nceTd">
+<p local-id=3D"aae201ff93ee"><strong>Standard Photo Violation</strong></p><=
+/td>
+<td data-local-id=3D"390a3c5d-67c6-45f6-af55-2a61af5fdbc6" class=3D"conflue=
+nceTd">
+<p local-id=3D"3a3cfd99eada">If the photo shows selfies, logos, or spam, <s=
+trong>remove the photo</strong>.</p></td>
+</tr>
+<tr data-local-id=3D"b0681e2c-a796-4f7f-992a-235f12059bcd">
+<td data-local-id=3D"ff5d9712-2c61-46bf-b1ed-79b657ede908" class=3D"conflue=
+nceTd">
+<p local-id=3D"5fc91cb736c8"><strong>Illegal Photo Content</strong></p></td=
+>
+<td data-local-id=3D"94044aa0-2848-405e-8dd9-e790a4f33e9a" class=3D"conflue=
+nceTd">
+<p local-id=3D"f248d26c3e12">If the photo shows illegal activity, drugs, or=
+ escort services, <strong>escalate to Tier 2</strong> for a member ban.</p>=
+</td>
+</tr>
+<tr data-local-id=3D"8bb716c9-26bf-43d6-a076-a6b7cfe5094c">
+<td data-local-id=3D"fd8fea33-1994-480f-80b2-43e660352f6c" class=3D"conflue=
+nceTd">
+<p local-id=3D"84151ca8517c"><strong>User Privacy (Photo)</strong></p></td>
+<td data-local-id=3D"d2119bce-0893-4a04-8acd-5220be8b0763" class=3D"conflue=
+nceTd">
+<p local-id=3D"10149683ff4f">If a user reports a photo of themselves posted=
+ by someone else, <strong>remove the photo</strong>.</p></td>
+</tr>
+<tr data-local-id=3D"f5e97a65-9b6d-424b-808c-f7cb377d294a">
+<td data-local-id=3D"2a5f5359-d230-43a8-8b44-d375dd5359bc" class=3D"conflue=
+nceTd">
+<p local-id=3D"f7accb9c7a49"><strong>Voter Templates</strong></p></td>
+<td data-local-id=3D"c95a2cc4-464e-4652-a447-69b5f7913822" class=3D"conflue=
+nceTd">
+<p local-id=3D"8e4b626cf343">If a user claims to have not received a templa=
+te sent in the last 3 months, <strong>resend it</strong>.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr local-id=3D"bc1a962c-ac0a-497c-ad86-69a95d335bb6">
+<h1 local-id=3D"bb68c0d3e73b" id=3D"id-17.UserReviewDisputes-ViatorReviews"=
+><strong>Viator Reviews</strong></h1>
+<h2 local-id=3D"05dc714c9649" id=3D"id-17.UserReviewDisputes-Moderation"><s=
+trong>Moderation</strong></h2>
+<p local-id=3D"36f7e018165f">Fraud Support can moderate Viator reviews in r=
+esponse to user inquiries.</p>
+<ul local-id=3D"5e312707-ab1a-4521-9b84-417e504c2a33">
+<li local-id=3D"f1d25de4-3cf2-4506-ac90-267155d47341">
+<p local-id=3D"451ddcdf2fcc"><strong>Action:</strong> Take appropriate CI/C=
+M actions directly on the Viator review.</p></li>
+<li local-id=3D"62ba4ad7-b5ec-4817-aebd-8db4959eaab7">
+<p local-id=3D"a54eed82055d"><strong>Review Edits:</strong> If a user wants=
+ to <em>change</em> their Viator review, direct them to contact <a class=3D=
+"external-link" href=3D"mailto:customer.care@viator.com" rel=3D"nofollow"><=
+strong>customer.care@viator.com</strong></a>.</p></li>
+</ul>
+<h2 local-id=3D"91a25892de7b" id=3D"id-17.UserReviewDisputes-DuplicateConte=
+ntonViatorReviews"><strong>Duplicate Content on Viator Reviews</strong></h2=
+>
+<p local-id=3D"c3baa969e9a6">It is common for members to submit the same re=
+view text via their personal Tripadvisor account and their temporary Viator=
+ booking email (<code>vi_123456789@tripadvisor.com</code>).</p>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<ul local-id=3D"49d7b3e3-3bf3-41e3-8846-725da20f6df4">
+<li local-id=3D"5e61b9b3-5d59-4694-856f-a8a93737893e">
+<p local-id=3D"94ff4103db10"><strong>Policy:</strong> It is <strong>accepta=
+ble</strong> to leave both reviews published; do not remove them as duplica=
+tes.</p></li>
+</ul>
+</div>
+</div>
+<hr local-id=3D"1046fecc-4e7f-426b-8daf-667d125764af">
+<h1 local-id=3D"0d364885b8e5" id=3D"id-17.UserReviewDisputes-AgentQuickTips=
+"><strong>Agent Quick Tips</strong></h1>
+<div class=3D"panel" style=3D"background-color: #EAE6FF;border-color: #998D=
+D9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<ul local-id=3D"4b01968f-84e5-4018-9a84-f0cdb0395ffe">
+<li local-id=3D"fc48966e-3237-4352-8f8b-28f603723d79">
+<p local-id=3D"ec63225d760f"><strong>Privacy First:</strong> Never confirm =
+to a user whether their report resulted in another user being penalized.</p=
+></li>
+<li local-id=3D"98cb43ca-96a1-4fe2-b2d4-b57e3310dddf">
+<p local-id=3D"7d6c54aac70b"><strong>Macro Editing:</strong> Always ensure =
+the "Dispute Not Specific" macro is edited to address a <em>user</em> rathe=
+r than an <em>owner</em>.</p></li>
+</ul>
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_6_946148176.1785926499952--

@@ -1,0 +1,734 @@
+Date: Wed, 5 Aug 2026 11:05:28 +0000 (UTC)
+Message-ID: <1988646430.13.1785927928219@60e5481ec1b4>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_12_906251700.1785927928219"
+
+------=_Part_12_906251700.1785927928219
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>47. GDPR</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>47. GDPR</h1>
+    <div class=3D"Section1">
+        <h1 local-id=3D"ad5cf809-c66d-4a1c-aa43-74a3246e4b05" id=3D"id-47.G=
+DPR-Overview">
+<style>[data-colorid=3Daprdicdhz3]{color:#374151} html[data-color-mode=3Dda=
+rk] [data-colorid=3Daprdicdhz3]{color:#aeb8c8}[data-colorid=3Dw7gn7zr5j5]{c=
+olor:#374151} html[data-color-mode=3Ddark] [data-colorid=3Dw7gn7zr5j5]{colo=
+r:#aeb8c8}[data-colorid=3Dmjy5rpduga]{color:#ff5630} html[data-color-mode=
+=3Ddark] [data-colorid=3Dmjy5rpduga]{color:#cf2600}[data-colorid=3Dp7qoctx1=
+4b]{color:#2f3941} html[data-color-mode=3Ddark] [data-colorid=3Dp7qoctx14b]=
+{color:#bec8d0}[data-colorid=3Dsqt2trehxk]{color:#bf2600} html[data-color-m=
+ode=3Ddark] [data-colorid=3Dsqt2trehxk]{color:#ff6640}</style><strong>Overv=
+iew</strong></h1>
+<p local-id=3D"46aab21e-5812-46c5-b530-0ea673858b12"><strong>GDPR is short =
+for&nbsp;</strong><em><strong>General Data Protection Regulation.</strong><=
+/em></p>
+<p local-id=3D"acea4c06-e7b5-4920-a117-3a50aa6c0c8f"><span data-colorid=3D"=
+aprdicdhz3">Global Data Privacy is a regulation&nbsp;that requires business=
+es to protect the personal data and privacy of Tripadvisor customers, both =
+users and owners.&nbsp;The General Data Protection Regulation (GDPR) is reg=
+arded as one of the most stringent laws globally concerning privacy and sec=
+urity. Although it was formulated and enacted by the European Union (EU), i=
+t places responsibilities on organizations worldwide as long as they intera=
+ct with or gather information about individuals in the EU. According to thi=
+s regulation, companies that fail to meet these strict privacy and security=
+ requirements could face substantial fines, potentially reaching tens of mi=
+llions of euros.</span></p>
+<p local-id=3D"39137f93-79a3-4aff-9964-dc46788b2011">Agents MUST escalate a=
+ll Zendesk tickets, reviews, or review votes/comments that reference:</p>
+<ul local-id=3D"2202a70d-e7c3-4f56-83b4-25e2c6d18ce7">
+<li local-id=3D"f16d1c83-d2f0-40b9-ab82-625ca6429d3f">
+<p local-id=3D"93b923a3-3b45-41bb-8dfa-64f597825586">Global Data Privacy</p=
+></li>
+<li local-id=3D"6f7b41cb-88a5-47c0-8fb5-f0eb2ef008dc">
+<p local-id=3D"0ca1fc8f-3f70-4d81-8054-8f6603348ace">GDPR,&nbsp;<span data-=
+colorid=3D"w7gn7zr5j5">General Data Protection Regulation</span></p></li>
+<li local-id=3D"6100e0b8-09f5-4086-9ff0-614d57e454a3">
+<p local-id=3D"a3db6543-2c77-4fdd-b598-f75a9d9c735f">CCPA,&nbsp;California =
+Consumer Privacy Act/ California Privacy Act</p></li>
+<li local-id=3D"8ad6959d-604d-4abb-a8d3-439078a2d8de">
+<p local-id=3D"d8dccbdf-429f-415f-b290-7d46d578cce2">New Privacy Regulation=
+s</p></li>
+<li local-id=3D"19a94fa5-e40f-43d6-be4e-3d68c006d43e">
+<p local-id=3D"3e1c9eee-e34e-4a6f-82da-a6fd031409ed">Korean privacy laws/Ko=
+rean data protection laws</p></li>
+<li local-id=3D"9c96ef83-6a7e-40c0-af6d-0afc9c3b7c56">
+<p local-id=3D"135b3690-2156-4a40-a739-da5bd84864aa">Data Protection Act/Re=
+gulation/Directive/GDPR/KVKK - if you're unfamiliar with an acronym, google=
+ it!</p></li>
+<li local-id=3D"415ae7df-184c-444f-80c3-9a44fbf9d77d">
+<p local-id=3D"8ef9a978-987c-4c51-a860-ebab184d8ed8">or text of a similar n=
+ature or context!</p></li>
+</ul>
+<p local-id=3D"f134ca6e-9365-4582-9359-71b0389542f2"><em><strong><span clas=
+s=3D"legacy-color-text-red2">When you detect GDPR-related language, escalat=
+e the ticket to Tier 2</span></strong><span class=3D"legacy-color-text-defa=
+ult"> following the steps outlined below. If a review violates moderation g=
+uidelines or you have evidence of it being from a former member of staff, y=
+ou must take action on the review AND escalate the ticket to Tier 2. Note t=
+hat there is a special escalation process for GDPR-related tickets that mus=
+t be followed.&nbsp;</span></em></p>
+<p local-id=3D"a5b7e5b4-1825-4c3e-9cd8-03730e983f91"><em><strong><span clas=
+s=3D"legacy-color-text-default">If Tier 2 does not consider the case a GDPR=
+ case, we will send it back to the agent with instructions.&nbsp;<u>When in=
+ doubt, escalate to Tier 2. </u></span></strong></em></p>
+<p local-id=3D"5eb4dc5a-b930-498d-a21a-2c4a3edf4e6e"></p>
+<p local-id=3D"c2f15361-6cb9-45fc-a907-828386f84dfc"><em><strong><span clas=
+s=3D"legacy-color-text-default"><u>Scenarios:</u></span></strong></em></p>
+<p local-id=3D"abfa0169-b713-4047-9105-c2e927fa624a"><span class=3D"legacy-=
+color-text-default">Owners as well as Users may reach out with privacy conc=
+erns, and their requests may sound like the ones below:</span></p>
+<p local-id=3D"11890ee1-d700-4999-b907-e9f720eea857">"With whom do you shar=
+e my data? STOP sharing now."</p>
+<p local-id=3D"d7a5c5de-6e7b-4a4c-97c3-008de900f6b6">"Subject Access Reques=
+t or Data Subject Access Request"</p>
+<p local-id=3D"fac71a15-deee-4350-9b41-7438507796ab">"I want a copy of my e=
+mails/data/phone recordings."</p>
+<p local-id=3D"bb191ee8-c292-44dd-9253-8b510b2e51fb">"Who is your Data Prot=
+ection Officer? (DPO)"</p>
+<p local-id=3D"a5df5132-14ef-478a-b3f5-6381b4713c15">"Are you complying wit=
+h the CCPA / GDPR?" (or other acronyms you are not familiar with--kindly lo=
+ok it up; if you can't find it, please escalate)</p>
+<p local-id=3D"357c427d-f099-49c1-a457-f7a7663008ad">"I want to exercise my=
+ access rights/right to be forgotten."</p>
+<p local-id=3D"37da2e36-f00e-4fdd-9657-4a53dd2f4e41">"Please take down all =
+the reviews of Hotel XYZ based on CCPA / GDPR"</p>
+<p local-id=3D"987318e8-7fc9-4945-be97-036d5691eea3">"I have not permitted =
+you to publish my photo, and you are violating my privacy as per legal priv=
+acy regulations."</p>
+<p local-id=3D"7cb3f2c4-0dc1-446d-816b-60d2db8ca673">"Please erase this lis=
+ting from TripAdvisor based on KVKK."</p>
+<p local-id=3D"b2046b7b-e94d-4359-9a43-03f346a177c9">"Privacy Laws in Europ=
+e state you cannot mention my name in this review."</p>
+<p local-id=3D"8af8ef3f-65b2-4158-b2bf-d130ef210288">"I want a copy of all =
+the reviews of my restaurant based on GDPR."</p>
+<p local-id=3D"d202d139-c89e-4ab9-bddc-6ca07d42d85d"></p>
+<p local-id=3D"b5aa477c-241c-4927-b228-a99d72aa2745"><strong><span class=3D=
+"legacy-color-text-red2">All of these need to be escalated!</span></strong>=
+</p>
+<h2 local-id=3D"79b951ff-0e46-4635-ae73-e8c3152056f6" id=3D"id-47.GDPR-Howt=
+oescalateGDPRcasestoTier2:">How to escalate GDPR cases to Tier 2:</h2>
+<ol start=3D"1" local-id=3D"64b19624-5361-4b04-8dac-3bbd98559a7b">
+<li local-id=3D"3eb956e5-3b06-4668-919f-7c7915bb96fa">
+<p local-id=3D"8f6306ae-d9bf-4185-af6f-1deb03debe92">Select the *Escalate/T=
+ransfer::To FS Tier 2 macro in the Zendesk ticket</p></li>
+<li local-id=3D"3829a2df-ed33-4275-a5f4-88124aa66556">
+<p local-id=3D"c29180f5-a113-4c33-bd57-7684ccb23a59">Fill all the fields wi=
+th as much relevant information as possible, especially the reason why you =
+are escalating; <strong>tick the&nbsp;</strong><em><strong><span data-color=
+id=3D"p7qoctx14b">GDPR Request (right to be forgotten) </span></strong></em=
+><strong>box on the left-hand side</strong>.</p></li>
+<li local-id=3D"44e9acc9-a653-4cda-a2e2-13acd434032a">
+<p local-id=3D"37c6fbd7-7438-4e49-b861-d41ac15a58a3">Submit the ticket as O=
+PEN.</p></li>
+<li local-id=3D"b1d8d32b-f6ce-415e-9d5d-0d42ff120aaa">
+<p local-id=3D"78263712-2010-442f-91e2-29d78ef441c8">This automatically ass=
+igns the ticket to Katrin Mooney and triggers an email notification to the =
+entire Tier 2 Team. There's no need to tick the "Escalation to Tier 2" box.=
+&nbsp;</p></li>
+</ol>
+<h2 local-id=3D"50593674f153" id=3D"id-47.GDPR-Itisextremelyimportanttotick=
+thisbox,asfailuretodosoresultsinacriticalerror."><span data-colorid=3D"mjy5=
+rpduga">It is extremely important to tick this box, as failure to do so res=
+ults in a critical error.</span><span data-colorid=3D"sqt2trehxk">&nbsp;</s=
+pan></h2><span class=3D"confluence-embedded-file-wrapper image-left-wrapper=
+ confluence-embedded-manual-size"><img class=3D"confluence-embedded-image i=
+mage-left" width=3D"400" loading=3D"lazy" src=3D"96e47042921a37355d5d69a016=
+403931c725fdcad96d3147089301aa26b9c789" data-image-src=3D"https://tripadvis=
+or.atlassian.net/wiki/download/attachments/300105568/GDPR.png?version=3D1&a=
+mp;modificationDate=3D1704226418304&amp;cacheVersion=3D1&amp;api=3Dv2" data=
+-height=3D"1453" data-width=3D"601" data-unresolved-comment-count=3D"0" dat=
+a-linked-resource-id=3D"300106520" data-linked-resource-version=3D"1" data-=
+linked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"G=
+DPR.png" data-base-url=3D"https://tripadvisor.atlassian.net/wiki" data-link=
+ed-resource-content-type=3D"image/png" data-linked-resource-container-id=3D=
+"300105568" data-linked-resource-container-version=3D"7" data-media-id=3D"9=
+e729699-76d7-450b-8749-1bb2402ce55d" data-media-type=3D"file" height=3D"970=
+"></span>
+<p local-id=3D"4fd2fcce-1fe1-46fb-a73e-6ba3c7b56b42"></p>
+<p local-id=3D"77a62529-4bca-42ee-8ce1-f7b04653d57a"><em>Escalations to QAs=
+: If the agent asks for a supervisor's opinion, it is VERY IMPORTANT that t=
+his is documented in the notes. We need to know when the agent asked for a =
+supervisor's opinion, what they asked, and what instructions they received.=
+</em></p>
+<h2 local-id=3D"6355d2a9-ca5d-4d4e-be49-1cb11987f1d1" id=3D"id-47.GDPR-Nota=
+GDPRconcern:">Not a GDPR concern:</h2>
+<p local-id=3D"691baf3b-8788-495d-9439-25c045ca579d">Owner review disputes =
+where we ask owners for evidence, and they respond by saying they're uncomf=
+ortable sharing a guest's or staff/former staff member's information due to=
+ privacy concerns. Agents can respond to these concerns with the "GDPR conc=
+erns" macro.&nbsp;</p>
+<p local-id=3D"577fcdb5-6202-4ffb-9589-3906d61c06d4">Examples of this may i=
+nclude:</p>
+<p local-id=3D"118b5620-1eec-4b6f-ba3a-ab8de4cde30a">"In line with our priv=
+acy policies, we are not in a position to divulge such details."</p>
+<p local-id=3D"27479a72-666f-44ff-9817-92ea7f400c5b">"Our legal team inform=
+s us that we cannot share any of this guest's information with you due to G=
+DPR concerns."</p>
+<p local-id=3D"dba23625-5b76-43cf-8f7e-215c1d68672c"></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"2836.5640000000003" data-layout=3D"full-width" d=
+ata-local-id=3D"475b8cfb-23ab-439d-ab66-902db214ef4c" class=3D"confluenceTa=
+ble">
+<colgroup>
+<col style=3D"width: 1353.12px;">
+<col style=3D"width: 1483.44px;">
+</colgroup>
+<tbody>
+<tr data-local-id=3D"f01dfe2e-b7ba-44d1-bf69-cd5f457528da">
+<th data-local-id=3D"18311b15-a958-4a87-9f68-014a40bfae79" class=3D"conflue=
+nceTh">
+<p local-id=3D"4a9cfefc-d2a7-4265-9b60-f368a73faef6"><strong>Escalate to Ti=
+er 2</strong></p></th>
+<th data-local-id=3D"ed161f7c-3a8a-4ffa-8959-c1bf1b4cc836" class=3D"conflue=
+nceTh">
+<p local-id=3D"fb5daaa2-44d4-4823-a2dc-bd3700268c79"><strong>Tier 1 can han=
+dle</strong></p></th>
+</tr>
+<tr data-local-id=3D"0fef9225-7222-4e61-b48b-c849eabfe5db">
+<td data-local-id=3D"18708372-d4fd-49bb-b829-ae0fd1a35992" class=3D"conflue=
+nceTd">
+<p local-id=3D"f85e10a6-23a3-4014-b729-77bb2d93563f">"Under GDPR, you need =
+my permission to list my restaurant on your site."</p></td>
+<td data-local-id=3D"c00a7866-f7d2-481a-b75f-185c76cfbf30" class=3D"conflue=
+nceTd">
+<p local-id=3D"c952ce59-3f02-46ae-a22a-8645bd3ba43a">"I never agreed to hav=
+ing my restaurant listed on your site. Please remove it." (Handle with "TA =
+doesn't remove listings" macro)&nbsp;</p></td>
+</tr>
+<tr data-local-id=3D"66f741f5-145e-4ffe-941c-96e3d3cadc74">
+<td data-local-id=3D"ae859139-7a54-40ad-926e-34864ead40b5" class=3D"conflue=
+nceTd">
+<p local-id=3D"dd9ae1db-7f91-4b18-9a61-6f1eab2c79af">"The reviewer mentions=
+ my full name in the review. I feel this violates my rights to privacy."</p=
+></td>
+<td data-local-id=3D"7a4d7f37-439f-4e9b-97de-abd8a0824778" class=3D"conflue=
+nceTd">
+<p local-id=3D"efe58d46-04cd-4f2a-94a1-28380ad9295e">"The reviewer mentions=
+ my name in the review. Please remove it."</p>
+<p local-id=3D"2cd14290-a4d4-4989-9c41-8fe4f8bef264">(Handle according to C=
+MI guidelines.&nbsp;Remember: First names are always okay to publish.&nbsp;=
+If only the first name is present and RMG, you can send the =E2=80=9CStaff =
+Names=E2=80=9D macro to owners.</p>
+<p local-id=3D"489107ec-a966-4e2a-bd5b-05b1a659cea5">When reported to us (v=
+ia the URD or Zendesk), reviews with staff full names who are not manager l=
+evel or above should be removed. If the review otherwise meets guidelines, =
+you can send the "Review Removed (CM Removal - User can resubmit" macro.</p=
+></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_12_906251700.1785927928219
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/96e47042921a37355d5d69a016403931c725fdcad96d3147089301aa26b9c789
+
+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
+------=_Part_12_906251700.1785927928219--

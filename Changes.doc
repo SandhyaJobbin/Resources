@@ -1,0 +1,119 @@
+Create/update the assessment using the exact zone-wise structure provided below.
+Overall Requirements
+Maintain the Zone → Competency → Sub-category → Question Type hierarchy.
+Use the exact question IDs provided for each zone.
+Do not add, remove, rename, or replace any question IDs unless explicitly instructed.
+Display the updated question count, case count, scoring per question, and total marks correctly.
+Questions marked as cases must remain grouped under their respective case.
+The assessment should calculate the total score based on the Scoring per Q value for each zone.
+Preserve the question difficulty labels such as [straightforward] and [moderate].
+Ensure the final assessment contains all questions listed below.
+Zone-wise Configuration
+Zone 1
+Competency: Language & Communication
+Sub-category: Grammar
+Question Type: MCQ Single
+Updated Count: 4
+Cases: None
+Scoring per Q: 1 mark
+Total: 4 marks
+Questions:
+1. eng-grammar-q02 [straightforward]
+2. eng-grammar-q05 [straightforward]
+3. eng-grammar-q06 [straightforward]
+4. eng-grammar-q14 [straightforward]
+Zone 2
+Competency: Language & Communication
+Sub-category: Sentence Correction
+Question Type: Free-text rewrite
+Updated Count: 3
+Cases: None
+Scoring per Q: 1 mark
+Total: 3 marks
+Questions:
+1. eng-sentence-correction-q36 [straightforward]
+2. eng-sentence-correction-q37 [straightforward]
+3. eng-sentence-correction-q38 [straightforward]
+Zone 3
+Competency: Language & Communication
+Sub-category: Macro Editing
+Question Type: Free-text editing
+Updated Count: 3
+Cases: None
+Scoring per Q: 2 marks
+Total: 6 marks
+Questions:
+1. eng-macro-q61 [moderate]
+2. eng-macro-q66 [moderate]
+3. eng-macro-q70 [moderate]
+Zone 4
+Competency: Language & Communication
+Sub-category: Reading Comprehension
+Question Type: MCQ (passage-based)
+Updated Count: 3
+Cases: None
+Scoring per Q: 1 mark
+Total: 3 marks
+Questions:
+1. eng-reading-q71 [moderate]
+2. eng-reading-q72 [moderate]
+3. eng-reading-q76 [moderate]
+Zone 5
+Competency: Language & Communication
+Sub-category: Case Closure Notes
+Question Type: Hybrid (status + notes)
+Updated Count: 3
+Cases: None
+Scoring per Q: 2 marks
+Total: 6 marks
+Questions:
+1. eng-closure-q96 [moderate]
+2. eng-closure-q97 [moderate]
+3. eng-closure-q100 [moderate]
+Zone 6
+Competency: Attention to Detail
+Sub-category: L1: Review & Listing Accuracy
+Question Type: MCQ Single/Multi
+Updated Count: 4
+Cases: 2 cases containing 4 questions total
+Scoring per Q: 1 mark
+Total: 4 marks
+Case 1: THE REVIEW BEFORE CHECK-IN
+1. att-level-1-q05 [straightforward]
+2. att-level-1-q07 [straightforward]
+Case 2: THE NEGATIVE BUT VALID REVIEW
+1. att-level-1-q17 [straightforward]
+2. att-level-1-q19 [straightforward]
+Zone 8
+Competency: Decision Making & Logic
+Sub-category: Critical Thinking / Risk Assessment
+Question Type: MCQ Single/Multi
+Updated Count: 4
+Cases: 2 cases containing 4 questions total
+Scoring per Q: 1 mark
+Total: 4 marks
+Case 1: Repeat Policy Violation Pattern
+1. cri-risk-assessment-q13 [straightforward]
+2. cri-risk-assessment-q15 [straightforward]
+Case 2: Report Without Supporting Evidence
+1. cri-risk-assessment-q21 [straightforward]
+2. cri-risk-assessment-q23 [straightforward]
+Final Validation
+Before completing the assessment, validate the following:
+1. Zone 1: 4 questions × 1 = 4 marks
+2. Zone 2: 3 questions × 1 = 3 marks
+3. Zone 3: 3 questions × 2 = 6 marks
+4. Zone 4: 3 questions × 1 = 3 marks
+5. Zone 5: 3 questions × 2 = 6 marks
+6. Zone 6: 4 questions × 1 = 4 marks
+7. Zone 8: 4 questions × 1 = 4 marks
+Overall total: 24 questions = 30 marks
+Important:
+Do not change the existing assessment logic.
+Do not modify the question content unless explicitly instructed.
+Do not change question IDs.
+Do not change the zone names, competency names, sub-categories, or question types.
+Keep the two case-based zones properly grouped by case.
+Ensure the scoring calculation is based on the individual zone's scoring-per-question value.
+Ensure the displayed Updated Count, Cases Count, Scoring per Q, and Total are accurate.
+The final assessment should be ready for implementation/testing.
